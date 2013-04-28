@@ -6,3 +6,4 @@ rdoc
 coverage
 *.gem
 apikey.yml
+.ruby-version
