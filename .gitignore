@@ -1,0 +1,8 @@
+Gemfile.lock
+.DS_Store
+*.swp
+*.swo
+rdoc
+coverage
+*.gem
+apikey.yml
