@@ -10,9 +10,8 @@ Gem::Specification.new do |s|
   s.email = ['mwoodward@whitepages.com']
   s.homepage = 'https://github.com/whitepages/whitepages_pro'
   s.summary = 'Ruby interfaces for WhitePagesPRO web services.'
-  s.description = "WhitePagesPRO provides lookup and anti-fraud APIs. For access, please contact pro-sales@whitepages.com"
+  s.description = "WhitePagesPRO provides lookup and anti-fraud APIs. For API access, please contact pro-sales@whitepages.com"
   s.licenses = ['BSD']
-
   s.has_rdoc = true
   s.extra_rdoc_files = ['README.rdoc']
 
