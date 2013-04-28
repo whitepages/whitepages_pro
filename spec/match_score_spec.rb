@@ -24,21 +24,22 @@ describe WhitepagesPro::MatchScore do
                                                                   )
 
       billing_address = {
-        :name =>     'Matt Woodward',
-        :address1 => '24502 229th CT SE',
-        :city =>     'Maple Valley',
-        :state =>    'WA',
-        :zip =>      '98038',
-        :phone =>    '4254138445',
+        :name =>      'Matt Woodward',
+        :address1 =>  '1835 73rd Ave NE',
+        :city =>      'Medina',
+        :state =>     'WA',
+        :zip =>       '98039',
+        :phone =>     '4254138445',
       }
 
       shipping_address = {
         :name =>      'Matt Woodward',
-        :address1 =>  '11858 11th Ave S',
+        :address1 =>  '1301 5th Ave',
+        :address2 =>  'Suite 1600',
         :city =>      'Seattle',
         :state =>     'WA',
-        :zip =>       '98038',
-        :phone =>     '2062444274',
+        :zip =>       '98101',
+        :phone =>     '2069735100',
       }
 
       order = {
