@@ -38,7 +38,7 @@ module WhitepagesPro
 
       billing_address_street = get_street options[:billing_address]
       billing_address_zip = get_zip options[:billing_address]
-      billing_phone = get_phone options[:shipping_address]
+      billing_phone = get_phone options[:billing_address]
 
       shipping_address_street = get_street options[:shipping_address]
       shipping_address_zip = get_zip options[:shipping_address]
